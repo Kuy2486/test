@@ -73,6 +73,7 @@ namespace WindowsFormsApp1
             SendMessage(panel1.Handle, WM_SYSCOMMAND, SC_MOVE | 2, 0);
         }
 
+        //へんしゅうテスト
         
     }
 }
